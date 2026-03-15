@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"0af2263082f1cd9e","x":-320,"y":-760,"width":800,"height":920,"type":"group","label":"基本"},
-		{"id":"41ca95204292884a","x":-280,"y":-600,"width":250,"height":60,"color":"1","type":"text","text":"睡前不带手机上床"},
-		{"id":"5e8ac7b41e765980","x":-80,"y":-720,"width":200,"height":60,"color":"4","type":"text","text":"每天一条基本国策"}
+		{"id":"0af2263082f1cd9e","type":"group","x":-320,"y":-760,"width":800,"height":920,"label":"基本"},
+		{"id":"ccdff2d079c6fe43","x":-179,"y":-469,"width":250,"height":60,"type":"text","text":""},
+		{"id":"41ca95204292884a","type":"text","text":"睡前不带手机上床","x":-280,"y":-600,"width":250,"height":60,"color":"1"},
+		{"id":"5e8ac7b41e765980","type":"text","text":"每天一条基本国策","x":-80,"y":-720,"width":200,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"6935346c3c923926","fromNode":"5e8ac7b41e765980","fromSide":"bottom","toNode":"41ca95204292884a","toSide":"top"}
