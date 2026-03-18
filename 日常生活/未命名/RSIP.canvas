@@ -3,10 +3,12 @@
 		{"id":"0af2263082f1cd9e","type":"group","x":-320,"y":-760,"width":800,"height":920,"label":"基本"},
 		{"id":"41ca95204292884a","type":"text","text":"睡前不带手机上床","x":-280,"y":-600,"width":250,"height":60,"color":"1"},
 		{"id":"5e8ac7b41e765980","type":"text","text":"每天一条基本国策","x":-80,"y":-720,"width":200,"height":60,"color":"4"},
-		{"id":"ccdff2d079c6fe43","type":"text","text":"工作日1点前睡觉","x":-280,"y":-480,"width":250,"height":60,"color":"1"}
+		{"id":"ccdff2d079c6fe43","type":"text","text":"工作日1点前睡觉","x":-280,"y":-480,"width":250,"height":60,"color":"1"},
+		{"id":"2ce2d1a5edcc4b67","x":-280,"y":-360,"width":250,"height":60,"color":"1","type":"text","text":"感觉困了就立马去睡20min"}
 	],
 	"edges":[
 		{"id":"6935346c3c923926","fromNode":"5e8ac7b41e765980","fromSide":"bottom","toNode":"41ca95204292884a","toSide":"top"},
-		{"id":"8f705c41a5d6a46c","fromNode":"41ca95204292884a","fromSide":"bottom","toNode":"ccdff2d079c6fe43","toSide":"top"}
+		{"id":"8f705c41a5d6a46c","fromNode":"41ca95204292884a","fromSide":"bottom","toNode":"ccdff2d079c6fe43","toSide":"top"},
+		{"id":"e2ed9efbde372691","fromNode":"ccdff2d079c6fe43","fromSide":"bottom","toNode":"2ce2d1a5edcc4b67","toSide":"top"}
 	]
 }
